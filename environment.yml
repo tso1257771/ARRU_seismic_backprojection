@@ -1,0 +1,17 @@
+name: arru-seismic-backprojection
+
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - python>=3.6
+  - anaconda
+  - pip
+  - matplotlib
+  - pandas
+  - numpy     
+  - tensorflow-gpu=2.4
+  - pip:
+    - obspy
+    - tensorflow-addons
