@@ -1,5 +1,7 @@
 # ARRU_seismic_backprojection
-Earthquake waveform detection and P/S arrivals picking on continuous data using ARRU phase picker. The model outputs are then fed into seismic backprojection algorithms to determine earthquake events.
+Earthquake waveform detection and P/S arrivals picking on continuous data using ARRU phase picker. 
+![ARRU_CLC](https://user-images.githubusercontent.com/30610646/148173622-7c873d51-2ca9-4a02-89f6-234e498d5a48.png)
+The model outputs are then fed into seismic backprojection algorithms to determine earthquake events.
 
 
 # Reference
