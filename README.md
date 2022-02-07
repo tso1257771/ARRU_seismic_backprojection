@@ -1,8 +1,7 @@
 # ARRU_seismic_backprojection
 
 **Do seismic phase picking on 1-hour-long seismograms**<br/>
-Input: SAC files <br/>
-Output: SAC files <br/>
+>Input/Output: SAC files <br/>
 ```$ python P01_continuous_pred.py```<br/>
 
 Earthquake waveform detection and P/S arrivals picking on continuous data using ARRU phase picker. 
