@@ -4,9 +4,9 @@ This repo is the official implementation of "Towards fully autonomous seismic ne
 
 In this repo we provide template codes that backprojects seismic phase-time functions with pre-calculated [travel-time tables](https://drive.google.com/file/d/1OADPD0nwAeX5W843Wt9E6I5K8MiYS7nM/view?usp=sharing). The outputs of following scripts could be retreived [here](https://drive.google.com/file/d/101h8nZopPDV86DnYMxZEwJ7nj293Q1Z-/view?usp=sharing). <br/>
 
-```$tar -zvxf out_data.tar.gz$``` <br/>
+```$tar -zvxf out_data.tar.gz``` <br/>
 
-```$tar -zvxf metadata.tar.gz$``` <br/>
+```$tar -zvxf metadata.tar.gz``` <br/>
 
 Also, the full catalog of our work is available at: '''./ARRU_BP_201907_catalog_final.txt'''<br/>
 
