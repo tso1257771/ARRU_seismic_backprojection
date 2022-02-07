@@ -12,6 +12,8 @@ dependencies:
   - pandas
   - numpy     
   - tensorflow-gpu=2.4
+  - mpi4py=3.0.3
+  - numba=0.51.2
   - pip:
-    - obspy
+    - obspy=1.2.2
     - tensorflow-addons
