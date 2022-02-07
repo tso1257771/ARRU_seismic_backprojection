@@ -19,6 +19,7 @@ This script generates phase-time functions of raw seismograms in SAC format.<br/
 **Step 4. Find potential earthquake events**<br/>
 ```$ python P04_find_potential_events.py```
 
+While the postprocess of backprojection results are tedious. in this repo we only provide main scripts of seismic phase picking and backprojection. 
 The full catalog of our work for July, 2019 Ridgecrest earthquake sequence is available at: ```./ARRU_BP_201907_catalog_final.txt```<br/>
 
 # Reference
