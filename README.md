@@ -1,8 +1,6 @@
 # ARRU_seismic_backprojection
 
 **Do seismic phase picking on 1-hour-long seismograms**<br/>
->Input/Output: SAC files <br/>
-
 ```$ python P01_continuous_pred.py```<br/>
 
 **Convert phase-time functions into binary**<br/>
