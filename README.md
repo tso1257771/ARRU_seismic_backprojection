@@ -1,15 +1,16 @@
 # ARRU_seismic_backprojection
+This repo is the official implementation of "Towards fully autonomous seismic networks: backprojecting deep-learning-based phase time functions for earthquake monitoring on continuous recordings".<br/>
 
-**Do seismic phase picking on 1-hour-long seismograms**<br/>
+*Do seismic phase picking on 1-hour-long seismograms*<br/>
 ```$ python P01_continuous_pred.py```<br/>
 
-**Convert phase-time functions into binary**<br/>
+*Convert phase-time functions into binary*<br/>
 ```$ python P02_ARRU_sac2bin.py```<br/>
 
-**Do seismic backprojection using prepared travel-time tables and phase-time fuinctions**<br/>
+*Do seismic backprojection using prepared travel-time tables and phase-time fuinctions*<br/>
 ```$ python P03_ARRU_BP_PSwin_MPI.py```<br/>
 
-**Find potential earthquake events**<br/>
+*Find potential earthquake events*<br/>
 ```$ python P04_find_potential_events.py```
 
 # Reference
