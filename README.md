@@ -8,7 +8,7 @@
 **Convert phase-time functions into binary**<br/>
 ```$ python P02_ARRU_sac2bin.py```<br/>
 
-**Do seismic backprojection using prepared travel-time tables**<br/>
+**Do seismic backprojection using prepared travel-time tables and phase-time fuinctions**<br/>
 ```$ python P03_ARRU_BP_PSwin_MPI.py```<br/>
 
 **Find potential earthquake events**<br/>
