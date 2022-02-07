@@ -7,6 +7,8 @@ In this repo we provide template codes that backprojects seismic phase-time func
 ```$tar -zvxf out_data.tar.gz$``` <br/>
 ```$tar -zvxf metadata.tar.gz$``` <br/>
 
+Also, the full catalog of our work is available: '''./ARRU_BP_201907_catalog_final.txt'''<br/>
+
 **Do seismic phase picking on 1-hour-long seismograms using [ARRU phase picker](https://github.com/tso1257771/Attention-Recurrent-Residual-U-Net-for-earthquake-detection)**<br/>
 This script generates phase-time functions of raw seismograms in SAC format.<br/>
 ```$ python P01_continuous_pred.py```<br/>
