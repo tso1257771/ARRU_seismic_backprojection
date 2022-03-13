@@ -24,3 +24,5 @@ The full catalog of our work for July, 2019 Ridgecrest earthquake sequence is av
 
 # Reference
 Wu‐Yu Liao, En‐Jui Lee, Dawei Mu, Po Chen, Ruey‐Juin Rau; ARRU Phase Picker: Attention Recurrent‐Residual U‐Net for Picking Seismic P‐ and S‐Phase Arrivals. Seismological Research Letters 2021; doi: https://doi.org/10.1785/0220200382
+
+Wu‐Yu Liao, En‐Jui Lee, Dawei Mu, Po Chen; Toward Fully Autonomous Seismic Networks: Backprojecting Deep Learning‐Based Phase Time Functions for Earthquake Monitoring on Continuous Recordings. Seismological Research Letters 2022; doi: https://doi.org/10.1785/0220210274
